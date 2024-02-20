@@ -153,7 +153,8 @@ struct MyRecipes {
                 "salt and pepper to taste"
             ],
             [
-                "Combine ingredients and bake at 350° for 30 to 45 minutes."
+                "Combine ingredients and bake at 350° for 30 to 45 minutes.",
+                "Take out of the oven and enjoy!"
             ]
         ),
     
@@ -184,7 +185,7 @@ struct MyRecipes {
                 "16 oz linguine",
                 "4 cups chicken broth",
                 "4 cloves garlic, diced",
-                "2 inches ginger root (sliced into 1/4 inch bits",
+                "2 inches ginger root (sliced into 1/4 inch bits)",
                 "3 large carrots, peeled",
                 "1 red bell pepper, chopped",
                 "6 green onions, sliced/chopped",
